@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  color: #252525;
+  font-size: 14px;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css);
+@import url(//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css);
+
+input.btn-danger {
+  margin-top:15px;
+}
+
+.container{
+  text-align: center;
+  font-size: 100%;
+  width: 100%;
+  background-color: #F5F5F5;
+}
+
+.email{
+  padding : 6px 40px 6px 40px;
+  border-radius: 4px;
+}
+
+.button {
+	border:none;
+	padding:10px 10px 10px 10px;
+  margin-top: 5px;
+	border-radius:3px;
+	background:#d34836;
+	font:bold 13px Arial;
+	color:#fff;
+}
+
+/* footer css*/
+
+#Footer {
+  padding: 30px;
+  background: rgb(200, 200, 200);
+  color: rgb(30, 30, 30);
+}
+
+#Footer a {
+  color: lightgrey;
+  font-size: 40px;
+}
+
+#Footer a:hover {
+  color: rgb(30, 30, 30);
+}
+
+.fab {
+  color: rgb(30, 30, 30);
+  font-size : 40px
+
+}
